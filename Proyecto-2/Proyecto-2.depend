@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680587435 source:c:\users\omarz\onedrive\escritorio\proyecto-2\main.c
+	<stdlib.h>
+	<sys/types.h>
+	<signal.h>
+	<unistd.h>
+	<math.h>
+	<ctype.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+
